@@ -1,2 +1,2 @@
 # ar drone research setup
-Researching Feelings of Uncertainty Among Humans During Cardiac Emergency Response by Drones
+AR Research setup for gauging Feelings of Uncertainty Among Humans During Cardiac Emergency Response by Drones
